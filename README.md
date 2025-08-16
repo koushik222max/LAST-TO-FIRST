@@ -33,7 +33,7 @@ python countdown.py
 2
 1
 🎆 BOOM! The last number has arrived! 🎇
-
+--------
 ✨ Why You’ll Love It
 
 Turns recursion into a cinematic experience.
